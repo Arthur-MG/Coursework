@@ -1,0 +1,16 @@
+Kivy==2.0.0rc4
+Kivy-Garden==0.1.4
+Pygments==2.7.2
+certifi==2020.11.8
+chardet==3.0.4
+docutils==0.16
+idn=2.10
+kivy-deps.angle==0.3.0
+kivy-deps.glew==0.3.0
+kivy-deps.sdl2==0.3.1
+pip==20.3b1
+pypiwin32==223
+pywin32==300
+requests==2.24.0
+setuptools==40.8.0
+urllib3==1.25.10
